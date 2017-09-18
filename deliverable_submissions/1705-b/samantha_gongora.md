@@ -1,4 +1,4 @@
-Students should clone their individual file and update them with gist links for each specific deliverables before making a Pull Request. Please name your Pull Request using this convention: *Module First Name Last Name*, i.e. "git mer"
+Students should clone their individual file and update them with gist links for each specific deliverables before making a Pull Request. Please name your Pull Request using this convention: *Module First Name Last Name*, i.e. "M3 BE Allison Singer"
 ## Mod 3 Deliverables:
 
 * Link to resume: https://www.canva.com/design/DACfGlY6AbA/ks_Ji2chRkCtoVoQEBqs_g/view?utm_content=DACfGlY6AbA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
