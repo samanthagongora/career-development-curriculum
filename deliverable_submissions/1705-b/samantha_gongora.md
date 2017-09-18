@@ -1,11 +1,11 @@
-Students should clone their individual file and update them with gist links for each specific deliverables before making a Pull Request. Please name your Pull Request using this convention: *Module First Name Last Name*, i.e. "M2 Allison Singer"
-Mod 3 Deliverables:
+Students should clone their individual file and update them with gist links for each specific deliverables before making a Pull Request. Please name your Pull Request using this convention: *Module First Name Last Name*, i.e. "git mer"
+## Mod 3 Deliverables:
 
-Link to resume (this can be an uploaded PDF or a link to your resume that's been created online): https://drive.google.com/file/d/0B4J1UToHJWkYWExvRkcydXk2N0k/view?usp=drivesdk
-Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
-Link to Flower Exercise using this template (you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):
-Link to Trello Board with companies that are being tracked:
-Job search action plan for M4, using this template:
+* Link to resume: https://www.canva.com/design/DACfGlY6AbA/ks_Ji2chRkCtoVoQEBqs_g/view?utm_content=DACfGlY6AbA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+* Link to Turing portfolio: https://www.turing.io/alumni/samantha-gongora
+* Link to Flower Exercise: https://gist.github.com/samanthagongora/11b3c68e0a7f4f6f648435cccfb37ea8
+* Link to Trello Board with companies that are being tracked: https://trello.com/b/t1GXQwr6/samantha-job-tracker
+* Job search action plan for M4: https://gist.github.com/samanthagongora/32c56d3921733f1fc85664bea9ed43f6
 
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach:
